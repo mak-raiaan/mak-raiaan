@@ -1,7 +1,15 @@
-<h1 align="center">Hi 👋, I'm MAK Raiaan</h1>
-<h3 align="center">Greetings! I am Raiaan, a Computer Science Engineer and a Consultant-Research Assistant proudly affiliated with Charles Darwin University. My educational journey saw its zenith at the Department of Computer Science and Engineering, United International University. My profound research interests encompass the realms of Computer Vision, Graph Optimization, Explainable Artificial Intelligence, and the captivating field of Biomedical Engineering.  My motivation for embarking on this academic voyage is rooted in a vision to pioneer a system that bridges the communication chasm between humanity and machines, thus enhancing the quality of human existence. An unquenchable passion for scholarly pursuits courses through my veins. I relish the opportunity to forge new connections with individuals from diverse backgrounds, as each encounter enriches my reservoir of knowledge, ultimately propelling me toward greater efficacy in my endeavors.</h3>
+# <p align="center">Hi 👋, I'm MAK Raiaan</p>
 
-<img align="middle" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<p style="text-align: justify;">
+  <b>Greetings! I am Raiaan, a Computer Science Engineer and a Consultant-Research Assistant proudly affiliated with Charles Darwin University.&nbsp;My educational journey saw its zenith at the Department of Computer Science and Engineering, United International University.&nbsp; My profound research interests encompass the realms of Computer Vision, Graph Optimization, Explainable Artificial Intelligence, and the captivating field of Biomedical Engineering.&nbsp;My motivation for embarking on this academic voyage is rooted in a vision to pioneer a system that bridges the communication chasm between humanity and machines, thus enhancing the quality of human existence.&nbsp;An unquenchable passion for scholarly pursuits courses through my veins.&nbsp;I relish the opportunity to forge new connections with individuals from diverse backgrounds, as each encounter enriches my reservoir of knowledge, ultimately propelling me toward greater efficacy in my endeavors.</b>
+</p>
+
+
+<p align="center">
+  <img alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+</p>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mak-raiaan&label=Profile%20views&color=0e75b6&style=flat" alt="mak-raiaan" /> </p>
 
