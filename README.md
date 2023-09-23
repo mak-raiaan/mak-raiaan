@@ -10,13 +10,6 @@
 </p>
 
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mak-raiaan&label=Profile%20views&color=0e75b6&style=flat" alt="mak-raiaan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mak-raiaan" alt="mak-raiaan" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/raiaan31mak" target="blank"><img src="https://img.shields.io/twitter/follow/raiaan31mak?logo=twitter&style=for-the-badge" alt="raiaan31mak" /></a> </p>
-
 - 🔭 I’m currently working on **several health informatics projects along with industrial project**
 
 - 🌱 I’m currently learning **MMDetection, Detectron2**
@@ -25,12 +18,12 @@
 
 - 📫 How to reach me **m.raiaan.cs@gmail.com**
 
-<h2 align="left">📚 Google Scholar Profile</h2>
-
+<hr style="border: 2px solid #FF5733; background-color: #FF5733; margin-top: 15px; margin-bottom: 15px;">
+<h3 align="left">📚 Google Scholar Profile</h3>
 <p align="left">
   Explore my research and academic contributions on <a href="https://scholar.google.com/citations?user=Gg4yXLoAAAAJ&hl=en&oi=ao" target="_blank" style="color: #FF5733; text-decoration: none;">Google Scholar</a>.
 </p>
-
+<hr style="border: 2px solid #FF5733; background-color: #FF5733; margin-top: 15px; margin-bottom: 15px;">
 
 
 <h3 align="left">Connect with me:</h3>
