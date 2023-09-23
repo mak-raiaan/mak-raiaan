@@ -25,6 +25,14 @@
 
 - 📫 How to reach me **m.raiaan.cs@gmail.com**
 
+<h2 align="left">📚 Google Scholar Profile</h2>
+
+<p align="left">
+  Explore my research and academic contributions on <a href="https://scholar.google.com/citations?user=Gg4yXLoAAAAJ&hl=en&oi=ao" target="_blank" style="color: #FF5733; text-decoration: none;">Google Scholar</a>.
+</p>
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/raiaan31mak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raiaan31mak" height="30" width="40" /></a>
