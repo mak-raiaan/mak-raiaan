@@ -7,9 +7,8 @@
 </p>
 
 
-# My Portfolio🌐
-[Portfolio](https://mak-raiaan.github.io/)! 🚀
 
+- [Portfolio🌐](https://mak-raiaan.github.io/)! 🚀
 
 - 📫 How to reach me **m.raiaan.cs@gmail.com**
 
