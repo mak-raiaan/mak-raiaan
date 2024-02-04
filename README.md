@@ -7,11 +7,9 @@
 </p>
 
 
-- 🔭 I’m currently working on **several health informatics projects along with industrial project**
+# My Portfolio🌐
+[Portfolio](https://mak-raiaan.github.io/)! 🚀
 
-- 🌱 I’m currently learning **MMDetection, Detectron2**
-
-- 💬 Ask me about **Tensorflow, PyTORCH, Python**
 
 - 📫 How to reach me **m.raiaan.cs@gmail.com**
 
