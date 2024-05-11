@@ -35,7 +35,31 @@
 
 ---
 
-<img align="left" height="250px" width="450px" alt="Subangkar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mak-raiaan&show_icons=true&hide_border=true&theme=radical&count_private=true" />
 <br/>
+
+
+<br />
+
+
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=mak-raiaan&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="mak-raiaan's GitHub Stats" />
+</p>
+<p align="center">
+  <a href="https://github.com/ShahinurAlamBhuiyan">
+    <img align="center"  height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mak-raiaan&layout=compact&bg_color=000000&text_color=FFFFFF&title_color=FFFFFF" alt="GitHub Contribution"/>
+  </a>
+  <a href="https://github.com/ShahinurAlamBhuiyan">
+    <img align="center"  height="190px"src="https://github-readme-streak-stats.herokuapp.com?user=mak-raiaan&theme=dark&border_radius=5&fire=EB5454&ring=EB5454&currStreakLabel=EB5454" alt="GitHub Contribution"/>
+  </a>
+</p>
+
+
+<p align="center">
+<img  width="900px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mak-raiaan&theme=dark&Icon=FFFFFF"  alt="GitHub Contribution"/>
+</p>
+
+
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=mak-raiaan&theme=high-contrast" />
+
 
 ![](https://komarev.com/ghpvc/?username=mak-raiaan)
