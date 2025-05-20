@@ -1,65 +1,124 @@
-# <p align="center">Hi 👋, I'm MAK Raiaan</p>
-
-
+# <p align="center">MAK Raiaan</p>
+<p align="center">
+    <img src="https://img.shields.io/badge/Portfolio-mak--raiaan.github.io-EB5454?style=for-the-badge" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Research-Computer%20Vision%20%7C%20Machine%20Learning-211e1b?style=for-the-badge&logoColor=EB5454" alt="Research Areas"/>
+</p>
 
 <p align="center">
-  <img alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+    <i>Creating intelligent computer vision solutions for tomorrow's challenges.</i>
 </p>
 
+<hr style="border: 1px solid #EB5454; background-color: #EB5454; margin: 25px 0;">
 
+## About Me
 
-- [Portfolio🌐](https://mak-raiaan.github.io/)! 🚀
+```python
+from dataclasses import dataclass
 
-- 📫 How to reach me **m.raiaan.cs@gmail.com**
+@dataclass
+class MAKRaiaan:
+    specialization: str = "Computer Vision"
+    research: list[str] = ["Deep Learning", "Image Processing", "Visual Recognition"]
+    skills: list[str] = ["ML Engineering", "Software Development", "Data Analysis"]
+    welcome: list[str] = ["Research Collaboration", "Open Source Projects", "Technical Discussions"]
+    motto: str = "Teaching computers to see and understand the world"
+```
 
-<hr style="border: 2px solid #FF5733; background-color: #FF5733; margin-top: 15px; margin-bottom: 15px;">
-<h3 align="left">📚 Google Scholar Profile</h3>
-<p align="left">
-  Explore my research and academic contributions on <a href="https://scholar.google.com/citations?user=Gg4yXLoAAAAJ&hl=en&oi=ao" target="_blank" style="color: #FF5733; text-decoration: none;">Google Scholar</a>.
-</p>
-<hr style="border: 2px solid #FF5733; background-color: #FF5733; margin-top: 15px; margin-bottom: 15px;">
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/raiaan31mak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raiaan31mak" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/makraiaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="makraiaan" height="30" width="40" /></a>
-<a href="https://fb.com/makraiaan31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="makraiaan31" height="30" width="40" /></a>
-<a href="https://instagram.com/mr_schrute__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_schrute__" height="30" width="40" /></a>
-</p>
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-
----
-
-<br/>
-
-
-<br />
-
+I'm a computer vision researcher focused on developing and implementing advanced machine learning techniques for visual data analysis. My research explores deep learning applications in image processing, object detection, and visual recognition systems.
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=mak-raiaan&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="mak-raiaan's GitHub Stats" />
-</p>
-<p align="center">
-  <a href="https://github.com/mak-raiaan">
-    <img align="center"  height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mak-raiaan&layout=compact&bg_color=000000&text_color=FFFFFF&title_color=FFFFFF" alt="GitHub Contribution"/>
-  </a>
-  <a href="https://github.com/mak-raiaan">
-    <img align="center"  height="190px"src="https://github-readme-streak-stats.herokuapp.com?user=mak-raiaan&theme=dark&border_radius=5&fire=EB5454&ring=EB5454&currStreakLabel=EB5454" alt="GitHub Contribution"/>
+  <a href="https://scholar.google.com/citations?user=Gg4yXLoAAAAJ&hl=en&oi=ao" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Scholar-Profile-211e1b?style=for-the-badge&logo=google-scholar&logoColor=EB5454" alt="Google Scholar"/>
   </a>
 </p>
 
+<hr style="border: 1px solid #EB5454; background-color: #EB5454; margin: 25px 0;">
+
+## Technical Skills
+
+<p align="center"><strong>Programming Languages</strong></p>
 
 <p align="center">
-<img  width="900px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mak-raiaan&theme=dark&Icon=FFFFFF"  alt="GitHub Contribution"/>
+    <img src="https://img.shields.io/badge/Python-211e1b?style=for-the-badge&logo=python&logoColor=EB5454"/>
+    <img src="https://img.shields.io/badge/C-211e1b?style=for-the-badge&logo=c&logoColor=EB5454"/>
+    <img src="https://img.shields.io/badge/C++-211e1b?style=for-the-badge&logo=c%2B%2B&logoColor=EB5454"/>
+    <img src="https://img.shields.io/badge/Java-211e1b?style=for-the-badge&logo=java&logoColor=EB5454"/>
+    <img src="https://img.shields.io/badge/PHP-211e1b?style=for-the-badge&logo=php&logoColor=EB5454"/>
+    <img src="https://img.shields.io/badge/JavaScript_ES6-211e1b?style=for-the-badge&logo=javascript&logoColor=EB5454"/>
 </p>
 
+<p align="center"><strong>Python Libraries</strong></p>
 
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=mak-raiaan&theme=high-contrast" />
+<p align="center">
+    <img src="https://img.shields.io/badge/PyTorch-211e1b?style=for-the-badge&logo=pytorch&logoColor=EB5454"/>
+    <img src="https://img.shields.io/badge/TensorFlow-211e1b?style=for-the-badge&logo=tensorflow&logoColor=EB5454"/>
+    <img src="https://img.shields.io/badge/scikit--learn-211e1b?style=for-the-badge&logo=scikit-learn&logoColor=EB5454"/>
+    <img src="https://img.shields.io/badge/Pandas-211e1b?style=for-the-badge&logo=pandas&logoColor=EB5454"/>
+    <img src="https://img.shields.io/badge/Numpy-211e1b?style=for-the-badge&logo=numpy&logoColor=EB5454"/>
+    <img src="https://img.shields.io/badge/Librosa-211e1b?style=for-the-badge&logo=python&logoColor=EB5454"/>
+    <img src="https://img.shields.io/badge/Matplotlib-211e1b?style=for-the-badge&logo=plotly&logoColor=EB5454"/>
+    <img src="https://img.shields.io/badge/Seaborn-211e1b?style=for-the-badge&logo=python&logoColor=EB5454"/>
+    <img src="https://img.shields.io/badge/Scrapy-211e1b?style=for-the-badge&logo=python&logoColor=EB5454"/>
+</p>
 
+<p align="center"><strong>Frameworks</strong></p>
 
-![](https://komarev.com/ghpvc/?username=mak-raiaan)
+<p align="center">
+    <img src="https://img.shields.io/badge/Vue.js-211e1b?style=for-the-badge&logo=vue.js&logoColor=EB5454"/>
+    <img src="https://img.shields.io/badge/Spring_MVC-211e1b?style=for-the-badge&logo=spring&logoColor=EB5454"/>
+    <img src="https://img.shields.io/badge/Django-211e1b?style=for-the-badge&logo=django&logoColor=EB5454"/>
+    <img src="https://img.shields.io/badge/Bootstrap-211e1b?style=for-the-badge&logo=bootstrap&logoColor=EB5454"/>
+    <img src="https://img.shields.io/badge/React_Native-211e1b?style=for-the-badge&logo=react&logoColor=EB5454"/>
+</p>
+
+<p align="center"><strong>Database & Server</strong></p>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Oracle-211e1b?style=for-the-badge&logo=oracle&logoColor=EB5454"/>
+    <img src="https://img.shields.io/badge/MySQL-211e1b?style=for-the-badge&logo=mysql&logoColor=EB5454"/>
+    <img src="https://img.shields.io/badge/MongoDB-211e1b?style=for-the-badge&logo=mongodb&logoColor=EB5454"/>
+</p>
+
+<p align="center"><strong>Version Control & Project Management</strong></p>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/GitHub-211e1b?style=for-the-badge&logo=github&logoColor=EB5454"/>
+    <img src="https://img.shields.io/badge/Jira-211e1b?style=for-the-badge&logo=jira&logoColor=EB5454"/>
+</p>
+
+<hr style="border: 1px solid #EB5454; background-color: #EB5454; margin: 25px 0;">
+
+## GitHub Stats
+
+<p align="center">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mak-raiaan&theme=dark&show_icons=true&hide_border=true&count_private=true&bg_color=000000&icon_color=EB5454&title_color=FFFFFF&text_color=FFFFFF" />
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=mak-raiaan&theme=dark&border_radius=5&fire=EB5454&ring=EB5454&currStreakLabel=EB5454" />
+</p>
+
+<p align="center">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mak-raiaan&layout=compact&bg_color=000000&text_color=FFFFFF&title_color=FFFFFF" />
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mak-raiaan&theme=dark&Icon=FFFFFF" />
+</p>
+
+<p align="center">
+    <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=mak-raiaan&theme=high-contrast" />
+</p>
+
+<hr style="border: 1px solid #EB5454; background-color: #EB5454; margin: 25px 0;">
+
+## Connect With Me
+
+<p align="center">
+    <a href="https://twitter.com/raiaan31mak"><img src="https://img.shields.io/badge/Twitter-211e1b?style=for-the-badge&logo=twitter&logoColor=EB5454"/></a>
+    <a href="https://linkedin.com/in/makraiaan"><img src="https://img.shields.io/badge/LinkedIn-211e1b?style=for-the-badge&logo=linkedin&logoColor=EB5454"/></a>
+    <a href="https://fb.com/makraiaan31"><img src="https://img.shields.io/badge/Facebook-211e1b?style=for-the-badge&logo=facebook&logoColor=EB5454"/></a>
+    <a href="https://instagram.com/mr_schrute__"><img src="https://img.shields.io/badge/Instagram-211e1b?style=for-the-badge&logo=instagram&logoColor=EB5454"/></a>
+</p>
+
+<p align="center">
+    <a href="mailto:m.raiaan.cs@gmail.com"><img src="https://img.shields.io/badge/Email-m.raiaan.cs@gmail.com-211e1b?style=for-the-badge&logo=gmail&logoColor=EB5454"/></a>
+</p>
+
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=mak-raiaan&color=EB5454&style=flat-square" />
+</p>
