@@ -24,7 +24,7 @@ class MAKRaiaan:
     motto: str = "Teaching computers to see and understand the world"
 ```
 
-I'm a computer vision researcher focused on developing and implementing advanced machine learning techniques for visual data analysis. My research explores deep learning applications in image processing, object detection, and visual recognition systems.
+I am a computer vision researcher focused on developing and implementing advanced machine learning techniques for visual data analysis. My research explores deep learning applications in image processing, object detection, and visual recognition systems.
 
 <p align="center">
   <a href="https://scholar.google.com/citations?user=Gg4yXLoAAAAJ&hl=en&oi=ao" target="_blank">
