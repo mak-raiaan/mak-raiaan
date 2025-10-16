@@ -4,9 +4,6 @@
     <img src="https://img.shields.io/badge/Research-Computer%20Vision%20%7C%20Machine%20Learning-211e1b?style=for-the-badge&logoColor=EB5454" alt="Research Areas"/>
 </p>
 
-<p align="center">
-    <i>Creating intelligent computer vision solutions for tomorrow's challenges.</i>
-</p>
 
 <hr style="border: 1px solid #EB5454; background-color: #EB5454; margin: 25px 0;">
 
