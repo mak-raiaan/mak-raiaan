@@ -89,9 +89,8 @@ I am a computer vision researcher focused on developing and implementing advance
 
 <p align="center">
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mak-raiaan&theme=dark&show_icons=true&hide_border=true&count_private=true&bg_color=000000&icon_color=EB5454&title_color=FFFFFF&text_color=FFFFFF" />
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=mak-raiaan&theme=dark&border_radius=5&fire=EB5454&ring=EB5454&currStreakLabel=EB5454" />
+    <img width="49%" src="https://streak-stats.demolab.com?user=mak-raiaan&theme=dark&hide_border=true&background=000000&fire=EB5454&ring=EB5454&currStreakLabel=EB5454" />
 </p>
-
 <p align="center">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mak-raiaan&layout=compact&bg_color=000000&text_color=FFFFFF&title_color=FFFFFF" />
     <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mak-raiaan&theme=dark&Icon=FFFFFF" />
